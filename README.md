@@ -12,7 +12,6 @@
 I’m a **Full Stack Developer** with 2+ years of experience in designing and optimizing modern web apps.  
 I specialize in **React**, **Next.js**, **Node.js**, and **AWS**, crafting efficient, user-focused solutions that scale.  
 
----
 
 ## 🧠 Tech Stack  
 
@@ -21,8 +20,6 @@ I specialize in **React**, **Next.js**, **Node.js**, and **AWS**, crafting effic
 **Database:** MySQL | PostgreSQL | MongoDB  
 **Cloud/DevOps:** AWS | GitHub Actions | CI/CD  
 **Other:** GraphQL | Jest | Storybook 
-
----
 
 ## 🏆 Highlights  
 
